@@ -807,7 +807,9 @@ hr {
  Counter Section Style
  ========================================================================== */
 #counter {
+    background: #34363a;
   position: relative;
+  background: url(../img/bg-video.jpg);
 }
 
 
