@@ -394,6 +394,11 @@ hr {
   margin-bottom: 10px;
 }
 
+.services-item .services-content h4 {
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+
 .services-item .services-content h3 a {
   font-size: 18px;
   color: #585b60;
