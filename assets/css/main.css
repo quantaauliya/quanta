@@ -802,12 +802,14 @@ hr {
  Counter Section Style
  ========================================================================== */
 #counter {
+background: #34363a;
   background: url(../img/count-bg.jpg);
   background-position: center center;
   background-size: cover;
   position: relative;
   z-index: 1;
 }
+
 
 #counter .counter-text {
   height: 100%;
