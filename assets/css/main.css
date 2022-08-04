@@ -804,10 +804,7 @@ hr {
 #counter {
 background: #34363a;
   background: url(../img/testimonial.jpg);
-  background-position: center center;
-  background-size: cover;
   position: relative;
-  z-index: 1;
 }
 
 
