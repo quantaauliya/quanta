@@ -399,6 +399,11 @@ hr {
   color: #585b60;
 }
 
+.services-item .services-content h4 a {
+  font-size: 13px;
+  color: #585b60;
+}
+
 .services-item .services-content h3 a:hover {
   color: #3d60f4;
 }
