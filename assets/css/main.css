@@ -396,7 +396,7 @@ hr {
 
 .services-item .services-content h4 {
   font-weight: 300;
-  margin-bottom: 5px;
+  margin-bottom: 8px;
 }
 
 .services-item .services-content h3 a {
@@ -1232,10 +1232,9 @@ hr {
 }
 
 #blog .blog-item-text h3 {
-  font-size: 15px;
-  font-weight: 600;
+  font-size: 13px;
+  font-weight: 500;
   display: block;
-  text-transform: uppercase;
 }
 
 #blog .blog-item-text h3 a {
@@ -1243,7 +1242,7 @@ hr {
 }
 
 #blog .blog-item-text h3 a:hover {
-  color: #3d60f4;
+  color: #222222;
 }
 
 #blog .blog-item-text p {
@@ -1269,7 +1268,7 @@ hr {
 }
 
 .meta-tags span a:hover {
-  color: #3d60f4;
+  color: #222222;
 }
 
 .page-header {
