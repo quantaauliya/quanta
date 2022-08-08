@@ -4,7 +4,10 @@
 
   $(window).on('load', function() {
 
-
+  /* 
+   MixitUp
+   ========================================================================== */
+  $('#portfolio').mixItUp();
 
   /*Page Loader active
   ========================================================*/
@@ -99,7 +102,24 @@
         }
       });  
 
-
+    /* 
+   VIDEO POP-UP
+   ========================================================================== */
+    $('.video-popup').magnificPopup({
+      disableOn: 700,
+      type: 'iframe',
+      mainClass: 'mfp-fade',
+      removalDelay: 160,
+      preloader: false,
+      fixedContentPos: false,
+    });
+    
+    /* Nivo Lightbox
+    ========================================================*/   
+     $('.lightbox').nivoLightbox({
+      effect: 'fadeScale',
+      keyboardNav: true,
+    });
 
     /* Back Top Link active
     ========================================================*/
