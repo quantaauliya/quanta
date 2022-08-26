@@ -215,6 +215,15 @@ button:focus {
   background: #CE332A;
 }
 
+table, th, td {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #000;
+  text-align: left;
+    text-decoration-color: black;
+  padding: 2px;
+}
+
 /* ScrollToTop */
 a.back-to-top {
   display: none;
@@ -1116,6 +1125,7 @@ hr {
   -ms-transition: all .3s linear;
   -o-transition: all .3s linear;
   transition: all .3s linear;
+    
 }
 
 #pricing .table .icon {
